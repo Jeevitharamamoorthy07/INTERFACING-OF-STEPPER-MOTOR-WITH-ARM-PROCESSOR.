@@ -156,7 +156,7 @@ delay_ms(50);
 
 <img width="903" height="880" alt="image" src="https://github.com/user-attachments/assets/59ca15ed-b63f-4423-85bf-e5d91a7563d5" />
 
-<img width="1491" height="914" alt="WhatsApp Image 2026-09-19 at 10 28 51 AM" src="https://github.com/user-attachments/assets/b55a57f1-7e37-4ff6-875b-677224be2001" />
+<img width="688" height="327" alt="image" src="https://github.com/user-attachments/assets/002b986c-1bef-46fd-a9de-6d919369fe05" />
 
 # RESULT:
 
